@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/Ow3nso/Ow3nso-Brokers/actions/workflows/devops.yml/badge.svg)](https://github.com/Ow3nso/Ow3nso-Brokers/actions/workflows/devops.yml)
 # Ow3nso-Brokers
 My own trading platform broker in full control of all Market executions.
 I will be building an enterprise website from scratch (analysis, develop, test and production) in order to learn
