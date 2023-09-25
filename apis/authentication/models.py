@@ -1,4 +1,4 @@
-from database import Base
+from apis.authentication.database import Base
 from sqlalchemy import Column, Integer, Boolean, Text, String
 
 class User(Base):
